@@ -20,3 +20,7 @@
       font-size: 100px;
       object-fit: cover;
     }
+
+  html, body{
+    font-size: 17px;
+  }
