@@ -6,7 +6,7 @@
   <!-- <a href="https://surf.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Surf</h1>
+<h1 align="center">The Surfing Project</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/{{YOUR_GITHUB_USERNAME}}/surf?color=56BEB8">
@@ -57,7 +57,7 @@ Before starting, you need to have [Git](https://git-scm.com) installed.
 
 ```bash
 # Clone this project
-$ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/surf
+$ git clone https://github.com/Madzy27-Ys/THP-W1-The-Surfing-Project.git
 
 # Access
 $ cd surf
